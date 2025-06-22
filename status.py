@@ -29,4 +29,5 @@ def main():
     app_status = Status()
     print(app_status.get_status())  
 
-    
+print("Status module loaded successfully.")
+print("Running main function...")
